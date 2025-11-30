@@ -1,0 +1,10 @@
+#!/bin/bash
+# Script that displays listening TCP/UDP ports with PID/Program name
+
+# Show listening internet sockets (TCP/UDP)
+echo "Active Internet connections (only servers)"
+sudo ss -tulnp
+
+# Show listening UNIX domain sockets
+echo -e "\nActive UNIX domain sockets (only servers)"
+sudo ss -xulnp
