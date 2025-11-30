@@ -1,31 +1,17 @@
-# Types of Networks
+LAN (Local Area Network) connects local devices together  
+WAN (Wide Area Network) connects LANs together and operates over the Internet
 
-**LAN (Local Area Network)** connects local devices together.  
-**WAN (Wide Area Network)** connects LANs together and operates over the Internet.
-
----
-
-## Questions and Answers
-
-**1. What type of network a computer in local is connected to?**  
+What type of network a computer in local is connected to?  
 - ✅ LAN  
 - WAN  
 - Internet
 
-**2. What type of network could connect the Holberton HQ office with the Holberton-Gandi space?**  
+What type of network could connect the Holberton HQ office with the Holberton-Gandi space?  
 - ✅ WAN  
 - LAN  
 - Internet
 
-**3. What network do you use when you browse www.google.com from your smartphone (not connected to Wi-Fi)?**  
+What network do you use when you browse www.google.com from your smartphone (not connected to Wi-Fi)?  
 - ✅ Internet  
 - LAN  
 - WAN
-
----
-
-Repo location for reference:
-
-- GitHub repository: `holbertonschool-network`  
-- Directory: `basics_0`  
-- File: `1-types_of_network`

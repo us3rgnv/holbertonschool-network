@@ -1,23 +1,9 @@
-# MAC and IP Address
-
----
-
-## Questions and Answers
-
-**1. What is a MAC address?**  
-- The name of a network interface  
+What is a MAC address?  
 - ✅ The unique identifier of a network interface  
+- The name of a network interface  
 - A network interface
 
-**2. What is an IP address?**  
+What is an IP address?  
 - ✅ Is to devices connected to a network what postal address is to houses  
 - The unique identifier of a network interface  
 - Is a number that network devices use to connect to networks
-
----
-
-Repo location for reference:
-
-- GitHub repository: `holbertonschool-network`  
-- Directory: `basics_0`  
-- File: `2-MAC_and_IP_address`

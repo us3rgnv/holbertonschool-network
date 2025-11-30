@@ -1,0 +1,33 @@
+The OSI model is a conceptual model that characterizes the communication functions of a telecommunication system without regard to their underlying internal structure and technology
+
+# Organization of the OSI Model
+
+The OSI model is organized from the lowest level to the highest level, consisting of seven layers:
+
+| Layer | Name | Description | Examples |
+|-------|------|-------------|---------|
+| 7 | Application | Application-specific communication | HTTP, SNMP, FTP |
+| 6 | Presentation | Data translation and encryption | SSL, JPEG, ASCII |
+| 5 | Session | Managing sessions and connections | RPC, NetBIOS |
+| 4 | Transport | Reliable and unreliable delivery | TCP, UDP |
+| 3 | Network | Routing and addressing | IP, ICMP |
+| 2 | Data Link | Frame transmission over physical medium | Ethernet, MAC addresses |
+| 1 | Physical | Physical transmission of bits | Electrical signals, light, radio |
+
+## Layers in Focus
+
+Transport Layer
+- Responsible for end-to-end communication
+- Protocols: TCP (reliable) and UDP (unreliable)
+
+Network Layer
+- Responsible for logical addressing and routing
+- Protocols: IP, ICMP (used in ping)
+
+## Questions Recap
+
+What is the OSI model?  
+- ✅ The OSI model is a conceptual model that characterizes the communication functions of a telecommunication system without regard to their underlying internal structure and technology
+
+How is the OSI model organized?  
+- ✅ From the lowest to the highest level
